@@ -39,7 +39,7 @@ kubectl get service -n monitoring
 
 kubectl get svc -o wide -n monitoring
 
- kubectl get node  -o wide 
+ kubectl get nodes  -o wide     //how to get external-IP
 
  
 
